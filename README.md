@@ -16,6 +16,12 @@ In this repository, you will find:
 - `assignment3/`: JavaScript-based interactions and functionality.
 - `assignment4/`: Integration of HTML, CSS, and JavaScript in a cohesive project.
 
+# See solutions
+ - See asignament 2 in https://nad21lc.github.io/HTML-CSS-and-Javascript--Assignaments/module2-solution/index.html
+ - See asignament 3 in https://nad21lc.github.io/HTML-CSS-and-Javascript--Assignaments/module3-solution/index.html
+ - See asignament 4 in https://nad21lc.github.io/HTML-CSS-and-Javascript--Assignaments/module4-solution/index.html
+ - See asignament 5 in https://nad21lc.github.io/HTML-CSS-and-Javascript--Assignaments/module5-solution/index.html
+
 ## Copyright
 
 © 2024 Nadia Lucas Coronel - nad21lc@gmail.com. All rights reserved.
